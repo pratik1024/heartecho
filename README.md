@@ -1,4 +1,4 @@
-#💖 HeartEcho 
+💖 HeartEcho 
 An echo of you — across time, space, and soul.
 
 HeartEcho is a poetic fusion of emotional intelligence, storytelling, and cultural data — designed as a web experience where users discover who they are, echoed across time.
