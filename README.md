@@ -23,24 +23,7 @@ At its core, HeartEcho is a personalized narrative generator that creates three 
 - JSON — Lightweight data persistence  
 
 
-📂 Project Structure
-💖HeartEcho 
-├── data/                 # Stores generated user profiles (JSON)
-│   ├── abc.json
-│   └── ...
-├── Static/
-│   ├── chat.js           # Handles frontend chat logic
-│   └── style.css         # Styling for UI
-├── Templates/
-│   ├── chat.html         # Chat interface
-│   ├── otp.html          # OTP verification page
-│   ├── results.html      # Echo Twin results page
-│   └── welcome.html      # Landing page
-├── .env                  # Stores API keys (not committed)
-├── app.py                # Main Flask app logic
-├── profileimage.py       # Profile image generation logic
-├── qloo.py               # Qloo enrichment logic
-└── requirements.txt      # Required Python packages
+<img width="607" height="481" alt="image" src="https://github.com/user-attachments/assets/54c03b5e-ea12-4337-b37d-2c43bac4e4d5" />
 
 🔧 Installation
 Clone the repository
